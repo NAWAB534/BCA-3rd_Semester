@@ -15,7 +15,7 @@ public class problem9_Palindrome{
             System.out.println(originalNum+" is a palindrome");
         }
         else{
-            System.out.println(originalNum+" is bot palindrome");
+            System.out.println(originalNum+" is not palindrome");
         }
     }
 }
